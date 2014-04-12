@@ -18,10 +18,10 @@ To use your text:
 	$ Python Test_Voice.py "my text string"
 
 The text sting can contain special text keys that get translated based 
-on the time and date of your machone:
-    %day = day of week (Monday)
-    %time = time (16:45)
-    %date = date (2nd March)
-    %greet = Good morning / Good afternoon / Good evening 
+on the time and date of your machine:
+ * %day = day of week (Monday)
+ * %time = time (16:45)
+ * %date = date (2nd March)
+ * %greet = Good morning / Good afternoon / Good evening 
 
 Have fun.......
