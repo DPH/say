@@ -25,3 +25,6 @@ on the time and date of your machine:
  * %greet = Good morning / Good afternoon / Good evening 
 
 Have fun.......
+
+License
+This is released under the MIT license. 
